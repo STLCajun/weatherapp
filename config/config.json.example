@@ -1,0 +1,12 @@
+{
+  "test": {
+    "SITE_URL": "localhost",
+    "PORT": 3000,
+    "DARKSKY_KEY": "ENTER_DARKSKY_KEY_HERE"
+  },
+  "development": {
+    "SITE_URL": "localhost",
+    "PORT": 3000,
+    "DARKSKY_KEY": "ENTER_DARKSKY_KEY_HERE"
+  }
+}
